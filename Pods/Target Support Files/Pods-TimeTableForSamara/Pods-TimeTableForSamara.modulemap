@@ -1,0 +1,6 @@
+framework module Pods_TimeTableForSamara {
+  umbrella header "Pods-TimeTableForSamara-umbrella.h"
+
+  export *
+  module * { export * }
+}
